@@ -1,0 +1,12 @@
+ 
+ speler: 
+ datum: do mei 14 12:25:07 CEST 2020 
+ speler is gewonnen?  
+ aantal beurten: 4
+ 
+ 
+ speler: stan
+ datum: do mei 14 12:26:05 CEST 2020 
+ speler is gewonnen? TRUE 
+ aantal beurten: 3
+ 
